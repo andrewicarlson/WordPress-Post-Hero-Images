@@ -1,0 +1,23 @@
+.itv_hero_wrapper {
+	padding:0 20px 0 0;
+}
+.itv_hero_image-picker-wrapper {
+	margin:15px 0;
+}
+.image_picker_image {
+	max-width:200px;
+	max-height:109px;
+	overflow: hidden;
+	cursor:pointer;
+}
+.thumbnail {
+	height:110px;
+	border-radius:3px;
+}
+.itv_hero_image_admin {
+	max-width:254px;
+	max-height:254px;
+	margin-top:15px;
+	overflow: hidden;
+	display:block;
+}
